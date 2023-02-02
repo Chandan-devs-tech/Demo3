@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Portfolio Using Bootstrap</b></h3>
+  <h1><b>Portfolio Using Bootstrap</b></h1>
 
 </div>
 
