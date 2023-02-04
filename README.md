@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Portfolio</b></h1>
+  <h1><b>PORTFOLIO</b></h1>
 
 </div>
 
@@ -35,7 +35,6 @@
 
 # 📖 [Portfolio Using Bootstrap] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Portfolio Using Bootstrap]**  Using Bootstrap framework to create a new website from scratch created a prototype of the portfolio website.
 
@@ -184,6 +183,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Chandan-devs-tech/Portfolio-Using-Bootstrap/blob/feature/using-bootstrap/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
