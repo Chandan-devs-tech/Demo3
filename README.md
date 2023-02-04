@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Portfolio Using Bootstrap</b></h1>
+  <h1><b>Portfolio</b></h1>
 
 </div>
 
@@ -21,60 +21,50 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  <!-- - [Run tests](#run-tests) -->
+  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+<!-- - [🔭 Future Features](#future-features) -->
+<!-- - [🤝 Contributing](#contributing) -->
+<!-- - [⭐️ Show your support](#support) -->
+<!-- - [🙏 Acknowledgements](#acknowledgements) -->
+<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Portfolio Using Bootstrap] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Portfolio Using Bootstrap]**  Using Bootstrap framework to create a new website from scratch created a prototype of the portfolio website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://getbootstrap.com/docs/5.0/">Bootstrap</a></li>
+    <li><a href="https://web.dev/learn/css/?gclid=EAIaIQobChMIsdaclZC9_AIViIjVCh2zoAV1EAAYASAAEgJf5PD_BwE">HTML and CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) and [nav](https://getbootstrap.com/docs/5.0/components/navs-tabs/) for the header.
+- [scrollspy](https://getbootstrap.com/docs/5.0/components/scrollspy/) to update the active menu link when the user scrolls.
+- [cards](https://getbootstrap.com/docs/5.0/components/card/) for the list of portfolio projects.
+- [buttons](https://getbootstrap.com/docs/5.0/components/buttons/).
+- [badges](https://getbootstrap.com/docs/5.0/components/badge/) for the list of technologies.
+- [modals](https://getbootstrap.com/docs/5.0/components/modal/) for the popup window with the project details.
+- [Bootstrap forms components](https://getbootstrap.com/docs/5.0/forms/overview/) to create the contact form.
+- [the grid system](https://getbootstrap.com/docs/5.0/layout/grid/) to place elements inline with others.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +74,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,83 +82,29 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A [browser](https://www.google.com/search?q=what+is+a+browser&oq=what+is+a+browser&aqs=chrome..69i57.2748j0j1&sourceid=chrome&ie=UTF-8) of your choice
+- That you have set up Git on you desired computer
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- open the repo folder `Portfolio-Using-Bootstrap`
+- Rightclick on the index.html file and select open in the browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,21 +114,15 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Chandan-devs-tech)
+- Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandangupta-devs/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+<!-- FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -200,23 +130,23 @@ Example:
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[new_feature_3]** -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+<!-- ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+<!-- ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
@@ -226,7 +156,7 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+<!-- ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -236,7 +166,7 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+<!-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
@@ -248,14 +178,12 @@ I would like to thank...
 
   - [Answer_2]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
