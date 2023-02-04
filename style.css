@@ -29,6 +29,10 @@ body {
   color: #344563;
 }
 
+.nav-link:hover {
+  trandform:scale(1.3);
+}
+
 .portfolio-background h1 {
   font-weight: 700;
   font-size: 48px;
